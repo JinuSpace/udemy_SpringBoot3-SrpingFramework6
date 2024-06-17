@@ -11,9 +11,6 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan
 public class SimpleSpringContextLauncherApplication {
 
-	
-	
-	
 	public static void main(String[] args) {
 		
 		try(var context = 
